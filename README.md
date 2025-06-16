@@ -23,4 +23,7 @@ Her er en oversigt over nogle af de apps og danske instanser der er til fedivers
 10. **Velkommen** - Når din konto er godkendt, vil du modtage en e-mail med et link til at logge ind. Klik på linket "Log ind" i e-mailen. Der er også flere punkter du kan følge for at komme i gang med at bruge Mastodon, som at følge andre brugere, skrive indlæg og finde indhold.
 11. **Find people to follow** - Du kan søge efter brugere ved at klikke på "Manually search instead", forstørrelsesglasset eller kikkerten nederst i appen og indtaste deres @handle eller navn. Du kan også finde brugere via de hashtags, som de har brugt i deres indhold - Se hvem du kan finde via #sydfyn. Klik på deres profil og tryk på "Follow" for at følge dem.
 
-
+## Android
+### Oprettelse af bruger på dansk instans via Mastodon App
+1. **Hent** [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android) appen fra Google Play.
+2. Det er muligt at alle trin følger vejledningen til iOS ovenfor, men er ikke blevet efterprøvet endnu.
