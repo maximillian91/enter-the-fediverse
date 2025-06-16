@@ -1,5 +1,5 @@
 # enter-the-fediverse
-En guide til hvordan du får adgang tit fediverset via din Smartphone (iOS)
+En række guide til hvordan du kommer ind i fediverset via din Smartphone.
 
 ## Tabel over apps
 Her er en oversigt over nogle af de apps og danske instanser der er til fediverset. 
